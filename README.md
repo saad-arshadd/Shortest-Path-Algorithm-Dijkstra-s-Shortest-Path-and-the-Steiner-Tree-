@@ -1,0 +1,2 @@
+# Shortest-Path-Algorithm-Dijkstra-s-Shortest-Path-and-the-Steiner-Tree-
+A Python-based Graph Theory project visualizing Dijkstra's Shortest Path and the Steiner Tree algorithms. It features an interactive UI for selecting algorithms and input graphs. Dijkstra's algorithm computes the shortest path in weighted graphs, while the Steiner Tree identifies the minimal network connecting selected nodes. Matplotlib is used
